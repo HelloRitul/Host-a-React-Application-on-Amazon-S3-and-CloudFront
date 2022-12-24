@@ -1,6 +1,6 @@
 <h1 ali
     gn="center"> Host a React Application on Amazon S3 and CloudFront</h1>
-we’ll be setting up a hosting platform using Amazon S3 and CloudFront, to host a react application.
+We’ll be setting up a hosting platform using Amazon S3 and CloudFront, to host a react application.
 
 <h3 align="left">We will do this in 2 simple steps:</h3>
 
@@ -24,7 +24,7 @@ You should see now, that the bucket has been created. If we click on it, we see 
 If you would want to use only HTTP, you could allow public access to your S3 bucket, but we will keep the permissions and other options as default.</p>
 
 <h3 align="left">How to build the code of a React application</h3>
-open the VSCode terminal
+Open the VSCode terminal
 
 We'll be using the create-react-app generato. To use the generator as well as run the React application server, you'll need Node.js JavaScript runtime and npm (Node.js package manager) installed. npm is included with Node.js which you can download and install from Node.js downloads.
 
