@@ -2,7 +2,7 @@
     gn="center"> Host a React Application on Amazon S3 and CloudFront</h1>
 we’ll be setting up a hosting platform using Amazon S3 and CloudFront, to host a react application.
 
-<h3 align="left">We will do this in 3 simple steps:</h3>
+<h3 align="left">We will do this in 2 simple steps:</h3>
 
 -  **STEP1:** Create the S3 Bucket, Build the Code, and Deploy to S3
 
